@@ -7,4 +7,4 @@ It should look something like this:
 
 Preproccesor.py does all of the homology/persistence imaging. The MDS doesn't do a whole lot, the clustering is too high dimensional. 
 
-SVM classification get's 93% training and 91% validation accuracy.
+SVM classification get's 93% training and 91% validation accuracy. These are all CLI scripts, so copying code to a jupyter notebook and including some commentary is probably all that needs done for camera ready.
